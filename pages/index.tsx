@@ -179,16 +179,16 @@ const Home: NextPage = () => {
           <br></br>
           <div className="mt-1 items-center space-x-3">
             
-            <span className="text-slate-200">`
+            {/* <span className="text-slate-200">`
               <a
                 className="text-blue-500 hover:text-blue-700"
                 href="http://wz.aidaohang.com.cn/?f=ailvsuo"
                 target="_blank"
                 rel="noopener noreferrer"
               >AI导航</a>   
-            </span>
+            </span> */}
             
-             <span className="text-slate-200">
+             {/* <span className="text-slate-200">
                &nbsp;&nbsp;
               <a
                 className="text-blue-500 hover:text-blue-700"
@@ -196,13 +196,13 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >高级版</a>     
-            </span>
+            </span> */}
             
                <span className="text-slate-200">
                &nbsp;&nbsp;
               <a
                 className="text-blue-500 hover:text-blue-700"
-                href="http://dz.imurl.com.cn/go.html?q=gptyyqun"
+                href="https://mp.weixin.qq.com/s?__biz=MzkxNzQzMTY3Ng==&mid=2247483851&idx=1&sn=3daed6b692a308876a856ca4e808e162&chksm=c141f5d8f6367ccef670b2ab5fd8098dcafba0c3d822b7f3c7c32fac5c5bf8b1c256c4d51711#rd"
                 target="_blank"
                 rel="noopener noreferrer"
               >交流群</a>         
