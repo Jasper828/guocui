@@ -4,6 +4,7 @@ import { NextIntlProvider } from 'next-intl'
 import "../styles/globals.css";
 import "../styles/markdown.css";
 
+// test
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <NextIntlProvider
