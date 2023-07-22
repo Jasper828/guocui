@@ -257,7 +257,7 @@ const Home: NextPage = () => {
           </AnimatePresence>
         </ResizablePanel>
         
-         <p className="text-slate-500 items-center">仅供娱乐，切勿当真~</p>
+         <p className="text-slate-500 items-center">主人，我只会夸您一个人哦</p>
         <br/>  
          <p className="text-slate-500 items-center">使用人数较多有时会慢，如刷新没反应，请加群反馈。欢迎加群交流，一起同行。</p>
       </main>

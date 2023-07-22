@@ -1,10 +1,10 @@
 {
   "Index": {
-    "title": "AI国粹",
-    "description1": "与AI探讨语言艺术",
-    "description2": "人工智能在线喷人",
-    "placeholder": "比如:你是不是有病？",
-    "simplifierButton": "与AI互怼",
+    "title": "AI夸夸",
+    "description1": "世界上最完美的您",
+    "description2": "今天我也要夸一夸",
+    "placeholder": "主人，快来给夸夸分享您的经历、此刻的心情或想法吧",
+    "simplifierButton": "@夸夸",
     "switchLocale": "",
     "deployWiki": "已废弃",
     "slogan": "已废弃",
