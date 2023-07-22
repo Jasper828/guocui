@@ -202,8 +202,7 @@ const Home: NextPage = () => {
                &nbsp;&nbsp;
               <a
                 className="text-blue-500 hover:text-blue-700"
-                href="https://mp.weixin.qq.com/s?__biz=MzkxNzQzMTY3Ng==&mid=2247483851&idx=1&sn=3daed6b692a308876a856ca4e808e162&chksm=c141f5d8f6367ccef670b2ab5fd8098dcafba0c3d822b7f3c7c32fac5c5bf8b1c256c4d51711#rd"
-                target="_blank"
+                href="https://mp.weixin.qq.com/s?__biz=MzkxNzQzMTY3Ng==&mid=2247483857&idx=1&sn=dbb61cb8d7b8a1bf70381302470d2547&chksm=c141f5c2f6367cd4f738bde8961fbcadc96c373d623fb6023d052a3a29928f075d09cf850030#rd"
                 rel="noopener noreferrer"
               >交流群</a>         
             </span>
