@@ -16,10 +16,10 @@ export default function Footer() {
           了解更多
         </a>
       </div>
-      {/* <div className="flex space-x-4 pb-4 sm:pb-0">
+      <div className="flex space-x-4 pb-4 sm:pb-0">
        Powered by{" "}
-       ailvsuo.com.cn
-      </div> */}
+       rovy.me
+      </div>
     </footer>
   );
 }

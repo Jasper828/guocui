@@ -54,7 +54,8 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
   }
   delete payload.api_key
 
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+  // const res = await fetch("https://api.openai.com/v1/chat/completions", {                  
+  const res = await fetch("https://chatgpt1.nextweb.fun/api/proxy/v1/chat/completions", {                  
     headers: {
       "Content-Type": "application/json",
       Authorization: `Bearer ${openai_api_key ?? ""}`,

@@ -179,24 +179,24 @@ const Home: NextPage = () => {
           <br></br>
           <div className="mt-1 items-center space-x-3">
             
-            {/* <span className="text-slate-200">`
+            <span className="text-slate-200">`
               <a
                 className="text-blue-500 hover:text-blue-700"
-                href="http://wz.aidaohang.com.cn/?f=ailvsuo"
+                href="https://www.nvi.rovy.me"
                 target="_blank"
                 rel="noopener noreferrer"
               >AI导航</a>   
-            </span> */}
+            </span>
             
-             {/* <span className="text-slate-200">
+             <span className="text-slate-200">
                &nbsp;&nbsp;
               <a
                 className="text-blue-500 hover:text-blue-700"
-                href="http://dz.weurl.com.cn/go.html?q=aichat_yy"
+                href="https://www.ai.rovy.me"
                 target="_blank"
                 rel="noopener noreferrer"
               >高级版</a>     
-            </span> */}
+            </span>
             
                <span className="text-slate-200">
                &nbsp;&nbsp;
@@ -258,7 +258,7 @@ const Home: NextPage = () => {
           </AnimatePresence>
         </ResizablePanel>
         
-         <p className="text-slate-500 items-center">公平公正，为民请命</p>
+         <p className="text-slate-500 items-center">仅供娱乐，切勿当真~</p>
         <br/>  
          <p className="text-slate-500 items-center">使用人数较多有时会慢，如刷新没反应，请加群反馈。欢迎加群交流，一起同行。</p>
       </main>
